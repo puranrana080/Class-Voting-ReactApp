@@ -66,9 +66,9 @@ const VotingForm = () => {
           <option disabled value="">
             Choose
           </option>
-          <option value="rohit">Rohit</option>
-          <option value="suresh">Suresh</option>
-          <option value="aman">Aman</option>
+          <option value="Rohit">Rohit</option>
+          <option value="Suresh">Suresh</option>
+          <option value="Aman">Aman</option>
         </select>
 
         <button className="vote-btn btn btn-primary">Vote</button>
